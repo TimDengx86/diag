@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T08:01:11.244Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="-TtafxoIsnLfg4LPv2nn" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T08:05:21.528Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="80NVIdkoyhWcHYV5LXVU" version="20.5.3" type="github">
   <diagram id="FtoD-XMlUUmFFMKcjNig" name="Page-1">
-    <mxGraphModel dx="3694" dy="2764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2881" dy="2289" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -109,19 +109,19 @@
         <mxCell id="lZUS2v1G8GHMa_mkW9TZ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="lZUS2v1G8GHMa_mkW9TZ-40" target="lZUS2v1G8GHMa_mkW9TZ-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lZUS2v1G8GHMa_mkW9TZ-40" value="电气" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="lZUS2v1G8GHMa_mkW9TZ-40" value="电子&lt;br&gt;信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="165" y="40" width="70" height="230" as="geometry" />
         </mxCell>
         <mxCell id="lZUS2v1G8GHMa_mkW9TZ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="lZUS2v1G8GHMa_mkW9TZ-44" target="lZUS2v1G8GHMa_mkW9TZ-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lZUS2v1G8GHMa_mkW9TZ-44" value="微电子" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="lZUS2v1G8GHMa_mkW9TZ-44" value="新材料" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="279" y="40" width="70" height="230" as="geometry" />
         </mxCell>
         <mxCell id="lZUS2v1G8GHMa_mkW9TZ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="lZUS2v1G8GHMa_mkW9TZ-46" target="lZUS2v1G8GHMa_mkW9TZ-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lZUS2v1G8GHMa_mkW9TZ-46" value="环保" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="lZUS2v1G8GHMa_mkW9TZ-46" value="资源与环境" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="385" y="40" width="70" height="230" as="geometry" />
         </mxCell>
         <mxCell id="lZUS2v1G8GHMa_mkW9TZ-56" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;strokeWidth=2;" parent="1" vertex="1">
@@ -263,7 +263,7 @@
         <mxCell id="lZUS2v1G8GHMa_mkW9TZ-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="lZUS2v1G8GHMa_mkW9TZ-126" target="lZUS2v1G8GHMa_mkW9TZ-127" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lZUS2v1G8GHMa_mkW9TZ-126" value="化工" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="lZUS2v1G8GHMa_mkW9TZ-126" value="生物与新医药" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="480" y="39" width="70" height="230" as="geometry" />
         </mxCell>
         <mxCell id="lZUS2v1G8GHMa_mkW9TZ-127" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
