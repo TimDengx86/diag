@@ -10,8 +10,8 @@
         <mxCell id="ion5LrtuF8qGb0YXT-IF-32" value="评测1:&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;i2i挖掘结果的评测&lt;/span&gt;&lt;div&gt;评测方式：抽样+人工标注&lt;/div&gt;&lt;div&gt;评测指标：覆盖率、准确率&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="250" y="-250" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ion5LrtuF8qGb0YXT-IF-33" value="评测2:特征产出结果&lt;div&gt;评测方式：&lt;/div&gt;&lt;div&gt;评估指标：&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="410" y="-250" width="155" height="60" as="geometry" />
+        <mxCell id="ion5LrtuF8qGb0YXT-IF-33" value="评测2:关联特征质量&lt;div&gt;评测方式：&lt;/div&gt;&lt;div&gt;评估指标：&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="410" y="-250" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ion5LrtuF8qGb0YXT-IF-34" value="评测3：i2i召回结果评测&lt;div&gt;评测指标：&lt;/div&gt;&lt;div&gt;用户覆盖率：&lt;/div&gt;&lt;div&gt;用户准确率：&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="620" y="205" width="260" height="110" as="geometry" />
