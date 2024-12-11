@@ -10,7 +10,7 @@
         <mxCell id="ion5LrtuF8qGb0YXT-IF-32" value="评测1:&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;i2i挖掘结果的评测&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;评测指标：覆盖率、准确率&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;评测方式：抽样+人工标注&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="250" y="-250" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ion5LrtuF8qGb0YXT-IF-33" value="评测2:关联特征质量&lt;div&gt;评测方式：&lt;/div&gt;&lt;div&gt;评估指标：&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ion5LrtuF8qGb0YXT-IF-33" value="评测2:关联特征质量&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;评估指标：&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;评测方式：&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="410" y="-250" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ion5LrtuF8qGb0YXT-IF-34" value="评测3：i2i召回结果评测&lt;div&gt;评测指标：&lt;/div&gt;&lt;div&gt;1. 支路体验：&lt;/div&gt;&lt;div&gt;2.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;支路效率：支路独占的消耗、GMV、曝光转化率&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;评测方式：&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
