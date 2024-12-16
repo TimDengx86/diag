@@ -16,7 +16,7 @@
         <mxCell id="ion5LrtuF8qGb0YXT-IF-34" value="i2i召回结果评测&lt;div&gt;目的：在线覆盖率和匹配率&lt;br&gt;&lt;div&gt;指标：&lt;/div&gt;&lt;div&gt;1. 支路体验：召回广告与用户信号：匹配的相关率-leilei&lt;/div&gt;&lt;div&gt;2.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;支路效率：支路独占的消耗、GMV、曝光转化率&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;方式：&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. 人工评测：用户的spu/类目，召回广告的spu/类目是否相关&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. 实验方式：通过实验系统来看&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#CCFFCC;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="620" y="205" width="330" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="ion5LrtuF8qGb0YXT-IF-35" value="精排target评估&lt;div&gt;目的：&lt;br&gt;&lt;div&gt;指标：&lt;/div&gt;&lt;div&gt;方式：&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#CCCCFF;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="ion5LrtuF8qGb0YXT-IF-35" value="精排target评估&lt;div&gt;目的：评估i2itarget因子扶持效果&lt;br&gt;&lt;div&gt;指标：&lt;/div&gt;&lt;div&gt;1. 支路体验：&lt;/div&gt;&lt;div&gt;2. 支路效率&lt;/div&gt;&lt;div&gt;方式：&lt;/div&gt;&lt;div&gt;1. 人工评测：&lt;/div&gt;&lt;div&gt;2. A/B test:&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#CCCCFF;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="980" y="205" width="200" height="120" as="geometry" />
         </mxCell>
       </root>
