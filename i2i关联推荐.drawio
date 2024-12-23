@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="25.0.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="25.0.1" pages="2">
   <diagram name="第 1 页" id="oPobF2HVPtpR_-e8zUOL">
-    <mxGraphModel dx="1454" dy="1873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,6 +19,14 @@
         <mxCell id="ion5LrtuF8qGb0YXT-IF-35" value="精排target评估&lt;div&gt;目的：评估i2itarget因子扶持效果&lt;br&gt;&lt;div&gt;指标：&lt;/div&gt;&lt;div&gt;1. 支路体验：&lt;/div&gt;&lt;div&gt;2. 支路效率&lt;/div&gt;&lt;div&gt;方式：&lt;/div&gt;&lt;div&gt;1. 人工评测：&lt;/div&gt;&lt;div&gt;2. A/B test:&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#CCCCFF;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="980" y="205" width="200" height="120" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="pHfK8PUqjZ34Dt7Ilt4q" name="第 2 页">
+    <mxGraphModel dx="1454" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
