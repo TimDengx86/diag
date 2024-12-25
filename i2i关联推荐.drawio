@@ -205,7 +205,7 @@
             <mxPoint x="220" y="840.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9gJI6JKwPafKEEuuxOuF-83" value="离线数据流" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9gJI6JKwPafKEEuuxOuF-82">
+        <mxCell id="9gJI6JKwPafKEEuuxOuF-83" value="离线数据流&lt;div&gt;已有&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9gJI6JKwPafKEEuuxOuF-82">
           <mxGeometry x="0.2602" y="-4" relative="1" as="geometry">
             <mxPoint x="-13" y="36" as="offset" />
           </mxGeometry>
@@ -216,7 +216,7 @@
             <mxPoint x="400" y="840.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9gJI6JKwPafKEEuuxOuF-86" value="在线数据流" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9gJI6JKwPafKEEuuxOuF-85">
+        <mxCell id="9gJI6JKwPafKEEuuxOuF-86" value="在线数据流&lt;div&gt;新增&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9gJI6JKwPafKEEuuxOuF-85">
           <mxGeometry x="0.2602" y="-4" relative="1" as="geometry">
             <mxPoint x="-13" y="36" as="offset" />
           </mxGeometry>
