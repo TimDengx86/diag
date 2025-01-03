@@ -83,19 +83,18 @@
         <mxCell id="WeVGeyATEP2TrUEI9uky-29" value="用户集合&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="108.5" y="390" width="270" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="WeVGeyATEP2TrUEI9uky-30" value="有商品推荐需求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WeVGeyATEP2TrUEI9uky-30" value="可能有推荐需求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="183.5" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WeVGeyATEP2TrUEI9uky-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WeVGeyATEP2TrUEI9uky-32" target="WeVGeyATEP2TrUEI9uky-30">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="WeVGeyATEP2TrUEI9uky-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="WeVGeyATEP2TrUEI9uky-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="243.5" y="500" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="WeVGeyATEP2TrUEI9uky-35" value="实时trigger" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WeVGeyATEP2TrUEI9uky-33">
           <mxGeometry x="-0.0933" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-33" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="WeVGeyATEP2TrUEI9uky-32" value="没有商品推荐需求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="183.5" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WeVGeyATEP2TrUEI9uky-40" value="广告集合&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="390" width="291" height="240" as="geometry" />
