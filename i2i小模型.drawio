@@ -119,8 +119,14 @@
         <mxCell id="WeVGeyATEP2TrUEI9uky-55" value="其他用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WeVGeyATEP2TrUEI9uky-56" value="用户广告域行为" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="760" width="120" height="60" as="geometry" />
+        <mxCell id="WeVGeyATEP2TrUEI9uky-56" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WeVGeyATEP2TrUEI9uky-57" value="高价值人群" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="690" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WeVGeyATEP2TrUEI9uky-61" value="i2i召回小模型" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="830" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
