@@ -119,14 +119,44 @@
         <mxCell id="WeVGeyATEP2TrUEI9uky-55" value="其他用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WeVGeyATEP2TrUEI9uky-56" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="890" width="120" height="60" as="geometry" />
+        <mxCell id="WeVGeyATEP2TrUEI9uky-56" value="实时小模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="860" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WeVGeyATEP2TrUEI9uky-57" value="高价值人群" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="690" width="30" height="60" as="geometry" />
+        <mxCell id="WeVGeyATEP2TrUEI9uky-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WeVGeyATEP2TrUEI9uky-80" target="WeVGeyATEP2TrUEI9uky-56">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WeVGeyATEP2TrUEI9uky-61" value="i2i召回小模型" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="830" width="120" height="80" as="geometry" />
+        <mxCell id="WeVGeyATEP2TrUEI9uky-80" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="860" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WeVGeyATEP2TrUEI9uky-83" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="100" y="990" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="WeVGeyATEP2TrUEI9uky-68" value="全量用户&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WeVGeyATEP2TrUEI9uky-83">
+          <mxGeometry width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="WeVGeyATEP2TrUEI9uky-76" value="高价值用户" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WeVGeyATEP2TrUEI9uky-83">
+          <mxGeometry x="47.29411764705884" y="46.42857142857133" width="65.41176470588235" height="37.142857142857146" as="geometry" />
+        </mxCell>
+        <mxCell id="WeVGeyATEP2TrUEI9uky-64" value="广告库&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="359.995" y="985" width="154.25" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="WeVGeyATEP2TrUEI9uky-78" value="推荐感广告" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="402.37" y="1035" width="69.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeVGeyATEP2TrUEI9uky-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WeVGeyATEP2TrUEI9uky-76" target="WeVGeyATEP2TrUEI9uky-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WeVGeyATEP2TrUEI9uky-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WeVGeyATEP2TrUEI9uky-78" target="WeVGeyATEP2TrUEI9uky-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WeVGeyATEP2TrUEI9uky-88" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WeVGeyATEP2TrUEI9uky-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="1020" as="sourcePoint" />
+            <mxPoint x="470" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeVGeyATEP2TrUEI9uky-89" value="推荐感广告" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="471.87" y="870" width="69.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
