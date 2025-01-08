@@ -139,9 +139,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WeVGeyATEP2TrUEI9uky-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" parent="1" source="WeVGeyATEP2TrUEI9uky-80" target="WeVGeyATEP2TrUEI9uky-113" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="WeVGeyATEP2TrUEI9uky-80" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="900" width="30" height="60" as="geometry" />
         </mxCell>
@@ -151,14 +148,9 @@
             <mxPoint x="750" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WeVGeyATEP2TrUEI9uky-98" value="返回" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="WeVGeyATEP2TrUEI9uky-88" vertex="1" connectable="0">
+        <mxCell id="WeVGeyATEP2TrUEI9uky-98" value="推荐" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="WeVGeyATEP2TrUEI9uky-88" vertex="1" connectable="0">
           <mxGeometry x="0.0333" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WeVGeyATEP2TrUEI9uky-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;" parent="1" source="WeVGeyATEP2TrUEI9uky-89" target="WeVGeyATEP2TrUEI9uky-113" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="790" y="1020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WeVGeyATEP2TrUEI9uky-89" value="推荐感广告" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -186,14 +178,36 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WeVGeyATEP2TrUEI9uky-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WeVGeyATEP2TrUEI9uky-113" target="WeVGeyATEP2TrUEI9uky-114" edge="1">
+        <mxCell id="gdvW_6OQz8zFMiyGwCSC-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WeVGeyATEP2TrUEI9uky-113" target="gdvW_6OQz8zFMiyGwCSC-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WeVGeyATEP2TrUEI9uky-113" value="实时日志" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="1150" width="120" height="60" as="geometry" />
+        <mxCell id="WeVGeyATEP2TrUEI9uky-113" value="实时广告域流水" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="411.93" y="1170" width="118.07" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WeVGeyATEP2TrUEI9uky-114" value="样本" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="1030" width="120" height="60" as="geometry" />
+        <mxCell id="WeVGeyATEP2TrUEI9uky-114" value="样本融合" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="495" y="1010" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gdvW_6OQz8zFMiyGwCSC-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gdvW_6OQz8zFMiyGwCSC-23" target="gdvW_6OQz8zFMiyGwCSC-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="568.06" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gdvW_6OQz8zFMiyGwCSC-23" value="实时内容域流水" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gdvW_6OQz8zFMiyGwCSC-25" value="精选广告域样本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="411.93" y="1110" width="118.07" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gdvW_6OQz8zFMiyGwCSC-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gdvW_6OQz8zFMiyGwCSC-26" target="WeVGeyATEP2TrUEI9uky-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gdvW_6OQz8zFMiyGwCSC-26" value="精选内容域样本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="613.06" y="1110" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gdvW_6OQz8zFMiyGwCSC-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gdvW_6OQz8zFMiyGwCSC-25" target="WeVGeyATEP2TrUEI9uky-114">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="463.58267" y="1099.01" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
